@@ -1,0 +1,6 @@
+{
+  "name": "التطبيق الشامل",
+  "description": "تطبيق شامل متكامل: بيع وشراء الأجهزة، حجز تكسي، بيع وشراء وتصريف العملات، حجز تذاكر طيران، ودليل شامل للمحلات والمهن",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
