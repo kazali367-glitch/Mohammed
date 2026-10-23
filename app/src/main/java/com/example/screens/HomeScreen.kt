@@ -41,7 +41,8 @@ fun HomeScreen(
         ServiceItem("currency", "أسعار العملات", "💵"),
         ServiceItem("devices", "بيع وشراء الأجهزة", "📱"),
         ServiceItem("taxi", "حجز تكسي", "🚕"),
-        ServiceItem("shops", "دليل المحلات", "🏪")
+        ServiceItem("shops", "دليل المحلات", "🏪"),
+        ServiceItem("sections", "أقسام التطبيق", "📑", "جديد")
     )
 
     LazyVerticalGrid(

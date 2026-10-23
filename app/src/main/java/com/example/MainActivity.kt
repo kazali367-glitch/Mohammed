@@ -173,6 +173,7 @@ fun MainApp() {
                     "shops" -> ShopsDirectoryScreen()
                     "professions" -> ProfessionsSearchScreen()
                     "offers" -> SpecialOffersScreen()
+                    "sections" -> SectionManagerScreen()
                 }
             }
         }
@@ -235,6 +236,7 @@ fun getScreenTitle(screen: String): String {
         "delivery" -> "طلب وتوصيل من محل"
         "gas_stations" -> "جدول محطات الوقود والغاز"
         "offers" -> "العروض الخاصة والتخفيضات"
+        "sections" -> "أقسام التطبيق والعناصر"
         else -> "التطبيق الشامل"
     }
 }
